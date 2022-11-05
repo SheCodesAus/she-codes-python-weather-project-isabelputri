@@ -1,0 +1,18 @@
+Your job is to make all of the tests pass!
+
+# ----- EDIT weather.py FILE ON VSCODE ------------
+
+Do not make any changes to anything in the tests directory or run_tests.py file (aside from commenting
+some tests while you are working).
+
+Can just leave the 'pass' in VSCODE
+
+
+# ----- RUN run_tests.py file ON POWERSHELL ------------
+
+.FFF means the code has passed
+
+
+The contents of your weather.py file will be copied into a new directory
+and run against the original tests, so if you have changed any tests in your own repo, your code will likely fail
+upon submission
